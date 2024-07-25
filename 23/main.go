@@ -2,6 +2,6 @@ package twentythree
 
 import "fmt"
 
-func main() {
+func SolutionTwentyThree() {
 	fmt.Println("23")
 }
